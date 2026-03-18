@@ -1,0 +1,97 @@
+<gallery
+base = ""
+background = "#000000"
+banner = "#666666"
+text = "#FFFFFF"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>Amanda and Grandpa Al Early 2008</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#666666"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#666666" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#666666" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "0807310109.jpg"
+width = "525"
+height = "700"
+thumbpath = "0807310109.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "copyright"><![CDATA[    ]]></meta>
+</image>
+
+
+<image
+path = "0808030110.jpg"
+width = "700"
+height = "525"
+thumbpath = "0808030110.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "copyright"><![CDATA[    ]]></meta>
+</image>
+
+
+<image
+path = "2007_12250276.jpg"
+width = "700"
+height = "525"
+thumbpath = "2007_12250276.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "copyright"><![CDATA[    ]]></meta>
+</image>
+
+
+<image
+path = "2007_12250298.jpg"
+width = "700"
+height = "525"
+thumbpath = "2007_12250298.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "copyright"><![CDATA[    ]]></meta>
+</image>
+
+
+<image
+path = "2008_0331001.jpg"
+width = "700"
+height = "525"
+thumbpath = "2008_0331001.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2008_04140020.jpg"
+width = "700"
+height = "524"
+thumbpath = "2008_04140020.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "copyright"><![CDATA[    ]]></meta>
+</image>
+
+
+<image
+path = "2008_06210055.jpg"
+width = "700"
+height = "525"
+thumbpath = "2008_06210055.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "copyright"><![CDATA[    ]]></meta>
+</image>
+
+</images>
+</gallery>

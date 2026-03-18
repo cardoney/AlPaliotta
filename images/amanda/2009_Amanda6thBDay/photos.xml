@@ -1,0 +1,91 @@
+<gallery
+base = ""
+background = "#000000"
+banner = "#666666"
+text = "#FFFFFF"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>Amanda's 6th Birthday!</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#666666"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#666666" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#666666" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "043.jpg"
+width = "450"
+height = "600"
+thumbpath = "043.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "0908150035.jpg"
+width = "600"
+height = "450"
+thumbpath = "0908150035.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "206.jpg"
+width = "600"
+height = "398"
+thumbpath = "206.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "217.jpg"
+width = "600"
+height = "398"
+thumbpath = "217.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_2645.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_2645.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_2667.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_2667.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_2702.jpg"
+width = "449"
+height = "600"
+thumbpath = "IMG_2702.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>
